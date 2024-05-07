@@ -145,5 +145,36 @@ Power planning in IC design is indispensable for efficient power distribution ac
 <img width="303" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/de493956-00f7-40e4-9f50-12e147880ccf">
 
 
- 
+ # Day 3
+  **I/O placer revision**
+  <img width="291" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/4695fe22-56ed-47e3-a222-24ea8b575d40">
+   **Clone of VSDstdcelldesign**
+   <img width="361" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/edac3fda-85ed-4184-9b92-157d5ea5f30d">
+
+   **Intro to basic layout and LEF using inverter***
+<img width="241" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/3bd94354-5b14-4d42-99ba-8570d005ac82">
+layout
+<img width="195" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/827c7ac4-be7c-469c-a19f-d43d236c1d86">
+
+**Graph Outcome:**
+<img width="556" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/239e8ef5-9276-4b4b-b586-85f611840652">
+
+# Day 4
+ ***Pre-layout timing analysis and importance of good clock tree***
+ .lif file 
+ <img width="539" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/6a26b334-a4e2-4c53-89c4-7a95296149b2">
+
+after that we  need toedit the config.tcl 
+**The result after synthesis is :**
+<img width="547" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/4d2d2426-5e62-42c9-92a1-5b4774b4e940">
+ tns= 759.4
+ wns= 24.8
+ then:
+ <img width="153" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/ade83b6f-e8c1-4db4-aa88-6b2fd8ebf9d6">
+the chip model area is :18730.544
+<img width="210" alt="image" 
+   src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/b85fca6a-0919-4652-a104-db4b12fc05a4">
+
+
+
 
