@@ -161,6 +161,9 @@ layout
 
 # Day 4
  ***Pre-layout timing analysis and importance of good clock tree***
+
+ Timing analysis with ideal clocks using openSTA:
+ Timing analysis with ideal clocks using OpenSTA involves assessing the timing characteristics of a digital design without considering the complexities introduced by clock skew, jitter, or other non-idealities. OpenSTA, an open-source static timing analysis tool, enables designers to perform precise timing verification by analyzing the propagation delays of signals through the design's logic paths. By assuming ideal clock behavior, OpenSTA calculates the best-case and worst-case arrival times of signals at various points in the circuit, allowing designers to evaluate setup and hold time violations, clock-to-q delays, and overall timing performance. This analysis aids in ensuring that the design meets timing requirements and operates correctly under ideal conditions, serving as a fundamental step in the design verification process before considering real-world timing effects.
  .lif file 
  <img width="539" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/6a26b334-a4e2-4c53-89c4-7a95296149b2">
 
