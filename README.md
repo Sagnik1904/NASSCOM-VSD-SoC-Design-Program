@@ -120,4 +120,25 @@ Here are some key aspects of chip floor planning:
 
 Overall, chip floor planning is a crucial early-stage design activity that sets the foundation for the rest of the physical design flow. Effective floor planning can significantly impact the overall quality and manufacturability of the chip.
 
+**It's uses** : Chip floor planning on a silicon wafer involves optimizing the placement of multiple chips on a standard-sized wafer while considering die size, spacing, alignment, and manufacturing constraints. Maximizing wafer utilization and minimizing waste are crucial for cost-effectiveness. Chips are arranged in a regular grid pattern with adequate spacing for dicing and packaging. Proper orientation and alignment facilitate subsequent manufacturing steps. An exclusion zone near the wafer edge is often observed due to edge effects and potential defects.
+<img width="590" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/00ad3b6a-70f7-4b0a-b606-1f3a8d526a00">
+
+we use a formula to calculate the planning 
+<img width="243" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/3f76779d-9a46-4910-8e96-17faa0591242">
+***Power planning***
+In integrated circuit (IC) design, power planning is a critical aspect aimed at managing power distribution efficiently across the chip. It involves strategizing the layout and routing of power lines to ensure uniform voltage supply while minimizing voltage drops and power dissipation. Through careful placement of power grids, decoupling capacitors, and voltage regulators, power planning aims to mitigate issues such as signal integrity degradation and electromagnetic interference. This process requires meticulous attention to detail, considering factors like current density, parasitic effects, and thermal management. By optimizing power delivery networks, IC designers can enhance performance, reliability, and energy efficiency, crucial for modern electronic devices with stringent power constraints. Effective power planning not only impacts the functionality of the chip but also influences its overall power consumption and heat dissipation characteristics, essential considerations in contemporary semiconductor design.
+<img width="959" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/e0a28378-0c51-4c4c-8ca9-648d121158d5">
+Power planning in IC design is indispensable for efficient power distribution across the chip, ensuring optimal voltage supply while minimizing voltage drops and power dissipation. It plays a crucial role in mitigating issues like signal integrity degradation and electromagnetic interference, essential for reliable chip performance. Through meticulous layout and routing of power lines, power planning enhances energy efficiency and thermal management, critical considerations in modern semiconductor design. Effective power planning not only influences chip functionality but also impacts power consumption and heat dissipation characteristics, contributing to overall device performance and longevity.
+ ***Implemantation on OPENLANE :***
+ 
+ <img width="416" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/e1421e35-f0ad-4b05-b7a8-da19de6c0e42">
+<img width="416" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/c6fc5952-e8f5-4efb-9402-a55fde24349f">
+
+**Using the command run_floorplan:**
+
+<img width="415" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/f6de09f2-790b-4503-a423-32fbf50eb096">
+
+
+
+ 
 
