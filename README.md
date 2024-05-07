@@ -138,6 +138,11 @@ Power planning in IC design is indispensable for efficient power distribution ac
 
 <img width="415" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/f6de09f2-790b-4503-a423-32fbf50eb096">
 
+**Using Magic-t**
+<img width="256" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/eb8842d3-21fd-4708-9456-7eea3cac9085">
+
+**Running placement**
+<img width="303" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/de493956-00f7-40e4-9f50-12e147880ccf">
 
 
  
