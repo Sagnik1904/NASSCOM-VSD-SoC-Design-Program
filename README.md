@@ -1,5 +1,5 @@
 # NASSCOM-VSD-SoC-Design-Program
-'''Day 1'''
+# Day 1
 What is Chip ?
 A chip refers to an integrated circuit (IC) or a small wafer of semiconductor material embedded with integrated circuitry. These chips serve as the processing and memory units in modern digital computers. The manufacturing process for chips is extremely precise and typically takes place in a “clean room” to prevent even microscopic contamination, which could render a chip defective. Over time, the number of transistors per chip has doubled approximately every 18 months due to advancements in technology—a phenomenon known as Moore’s law.
 <img width="404" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/e0ff1b95-d9ca-4dd4-8617-54aa06c49643">
