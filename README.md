@@ -102,7 +102,7 @@ Percentage of D ff’s =10.842%
 
 # Day 2
 
-Chip floor planning is a critical step in the physical design process of an integrated circuit (IC) or chip. It involves determining the placement of various functional blocks, such as logic cells, memory, and I/O pads, on the silicon die. This step is crucial because it directly impacts the performance, power consumption, and area (PPA) of the chip.
+''' **Chip floor planning** '''is a critical step in the physical design process of an integrated circuit (IC) or chip. It involves determining the placement of various functional blocks, such as logic cells, memory, and I/O pads, on the silicon die. This step is crucial because it directly impacts the performance, power consumption, and area (PPA) of the chip.
 
 Here are some key aspects of chip floor planning:
 
