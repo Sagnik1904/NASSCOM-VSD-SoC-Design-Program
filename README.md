@@ -2,6 +2,8 @@
 # Day 1
 What is Chip ?
 A chip refers to an integrated circuit (IC) or a small wafer of semiconductor material embedded with integrated circuitry. These chips serve as the processing and memory units in modern digital computers. The manufacturing process for chips is extremely precise and typically takes place in a “clean room” to prevent even microscopic contamination, which could render a chip defective. Over time, the number of transistors per chip has doubled approximately every 18 months due to advancements in technology—a phenomenon known as Moore’s law.
+
+
 <img width="404" alt="image" src="https://github.com/Sagnik1904/NASSCOM-VSD-SoC-Design-Program/assets/143477873/e0ff1b95-d9ca-4dd4-8617-54aa06c49643">
 
 What Is SoC?
@@ -98,7 +100,24 @@ Percentage of D ff’s =10.842%
 
 
 
------------------------------------------------------Day 2----------------------------------------------------------------------------
+# Day 2
 
+Chip floor planning is a critical step in the physical design process of an integrated circuit (IC) or chip. It involves determining the placement of various functional blocks, such as logic cells, memory, and I/O pads, on the silicon die. This step is crucial because it directly impacts the performance, power consumption, and area (PPA) of the chip.
+
+Here are some key aspects of chip floor planning:
+
+1. **Area Allocation**: The chip area is divided into different regions to accommodate various functional blocks. These regions are typically allocated based on the size and importance of each block.
+
+2. **Block Placement**: Once the areas are allocated, individual functional blocks are placed within these regions. The placement is determined based on factors such as connectivity, signal integrity, and timing requirements.
+
+3. **Routing Channels**: Routing channels are reserved between the blocks to facilitate the routing of interconnects (wires) that connect the blocks. The width and spacing of these channels are determined based on the routing resources available and the density of interconnects.
+
+4. **Power and Signal Integrity**: Considerations for power distribution and signal integrity are also taken into account during floor planning. Power lines and signal paths need to be laid out in such a way that they minimize voltage drop, noise, and signal delay.
+
+5. Hierarchy: In larger designs, floor planning may involve hierarchical partitioning, where the chip is divided into multiple levels of abstraction, each with its own floor plan. This helps manage complexity and facilitates design reuse.
+
+6. **Constraints**: Floor planning is guided by various design constraints, including timing, power, area, and manufacturability constraints. These constraints help ensure that the final layout meets the desired performance targets and can be manufactured reliably.
+
+Overall, chip floor planning is a crucial early-stage design activity that sets the foundation for the rest of the physical design flow. Effective floor planning can significantly impact the overall quality and manufacturability of the chip.
 
 
